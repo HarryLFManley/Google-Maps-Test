@@ -33,5 +33,3 @@ function App() {
 }
 
 export default App;
-
-// AIzaSyCk7Z4baG7opW2vQBr-7LtuI_aYLGKlPLI
